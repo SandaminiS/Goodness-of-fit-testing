@@ -23,14 +23,5 @@ Goodness-of-fit tests are crucial for assessing how well observed data aligns wi
 - Summarize findings related to the performance of goodness-of-fit tests in high-dimensional logistic regression.
 - Discuss the implications of the results for statistical modeling in big data contexts.
 
-## Getting Started
-To run this project locally, please follow these steps:
-1. Clone the repository: `git clone <repository_url>`
-2. Install the necessary dependencies: `pip install -r requirements.txt`
-3. Run the analysis scripts: `python analysis.py`
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Dataset obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/toxicity).
